@@ -1,4 +1,4 @@
-# Svitlyk Bohdan
+# Bohdan Svitlyk
 
 __Place of residence:__ Bila Tserkwa
 __Phone:__ +38(096) 846 09 73
