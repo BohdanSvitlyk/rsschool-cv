@@ -11,8 +11,6 @@ __Working experience:__ (03.01.2020 – to date) School of Robotics and Programm
 I teach children the basics of programming, as well as analog and digital electronics. My goal is to motivate and provide quality education to everyone who really wants it. So that the knowledge gained is embodied in the desire and ability to create products for the future. 
 Now I'm striving to became a developer and bring high quality web sites in the modern World Wide Web.
 
----
-
 ## Skills:  
 
 * Microcoft Word;
