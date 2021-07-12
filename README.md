@@ -1,1 +1,1 @@
-https://bohdansvitlyk.github.io/rsschool-cv-html/index
+https://bohdansvitlyk.github.io/rsschool-cv-html
