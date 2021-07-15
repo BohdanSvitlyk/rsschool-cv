@@ -1,1 +1,1 @@
-https://github.com/BohdanSvitlyk/rsschool-cv/cv
+https://bohdansvitlyk.github.io/rsschool-cv/
